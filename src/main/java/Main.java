@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            ServerSocket servidor = new ServerSocket(3334);//Classe responsável por esperar conexão
+            ServerSocket servidor = new ServerSocket(10000);//Classe responsável por esperar conexão
             System.out.println("Aguardando conexao");
             Socket cliente; //conexão entre duas máquinas
             ConexaoDb conexao;
