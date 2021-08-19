@@ -1,1 +1,1 @@
-web: java target/classes/Main
+web: java -jar target/ServidorGeradorDeSenha.jar
