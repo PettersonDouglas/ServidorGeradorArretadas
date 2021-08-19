@@ -5,7 +5,6 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 
-
 public class ConexaoDb {
     //password of db: hwgyrBaQSpvJpQO4
     //compass: mongodb+srv://dev:hwgyrBaQSpvJpQO4@cluster0.jpcti.mongodb.net/test

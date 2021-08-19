@@ -1,1 +1,1 @@
-web: java -jar target/ServidorGeradorDeSenha.jar
+worker: java -jar target/ServidorGeradorDeSenha.jar
