@@ -1,1 +1,1 @@
-worker: java target/classes/Main
+web: java target/classes/Main
