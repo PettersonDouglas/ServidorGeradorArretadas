@@ -1,1 +1,1 @@
-web: java -jar target/ServidorGeradorDeSenha.jar
+web: java -jar target/ServidorGeradorDeSenha-1.0-SNAPSHOT.jar

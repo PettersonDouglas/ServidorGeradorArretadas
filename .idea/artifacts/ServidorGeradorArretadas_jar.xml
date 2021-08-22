@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="ServidorGeradorDeSenha:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ServidorGeradorDeSenha_jar</output-path>
-    <root id="archive" name="ServidorGeradorDeSenha.jar">
+  <artifact type="jar" name="ServidorGeradorArretadas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServidorGeradorArretadas_jar</output-path>
+    <root id="archive" name="ServidorGeradorArretadas.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="ServidorGeradorDeSenha" />
+      <element id="module-output" name="ServidorGeradorArretadas" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.10.2/mongo-java-driver-3.10.2.jar" path-in-jar="/" />
     </root>
   </artifact>
